@@ -4,7 +4,7 @@
 
 </div>
 
-This repository showcases a demonstration of my capstone project titled "Writer Independent Offline Signature Verification," which is part of my master's program.
+This repository contains a demo of my capstone project titled "Writer Independent Offline Signature Verification," developed during my end-of-studies internship for the completion of my master's program. 
 
 The objective of our method is to overcome challenges associated with variations in signature appearance that traditional Writer-Dependent (WD) methods find challenging to handle. We developed a Deep Learning model capable of learning a robust visual representation from offline handwritten signatures. This learned representation can be effectively utilized for feature extraction in downstream tasks within Writer-Dependent systems.
 
